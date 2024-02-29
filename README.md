@@ -2,7 +2,7 @@
 Useful script for day to day task in SQL Server administration. 
 
 
-# Script : IndexDefragScript_Dynamic.sql
+# Script : [IndexDefragScript_Dynamic.sql](https://github.com/TauqirHassnain/SQLServerScripts/blob/main/IndexDefragScript_Dynamic.sql)
 
 [Script](https://github.com/TauqirHassnain/SQLServerScripts/blob/main/IndexDefragScript_Dynamic.sql) that reorganizes or rebuilds all indexes having an average fragmentation percentage above a given threshold. It also works in the case where Availability Groups are enabled as it determines if the relevant databases are the primary replicas.
 
