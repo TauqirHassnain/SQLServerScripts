@@ -16,4 +16,4 @@ Script to read / check the errors in the SQL Server error logs.
 
 # Script : LogShippingStatusCheck.sql
 
-Script to check the Logshipping status on secondary server.
+[Script](https://github.com/TauqirHassnain/SQLServerScripts/blob/main/LogShippingStatusCheck.sql) to check the Logshipping status on secondary server.
