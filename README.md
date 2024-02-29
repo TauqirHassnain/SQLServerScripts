@@ -13,3 +13,7 @@ Script that generates the reorganize or rebuild command for the selected databas
 # Script : FindErrorInSQLLogs.sql
 
 Script to read / check the errors in the SQL Server error logs.
+
+# Script : LogShippingStatusCheck.sql
+
+Script to check the Logshipping status on secondary server.
